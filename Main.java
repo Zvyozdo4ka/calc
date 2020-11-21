@@ -302,7 +302,7 @@ public class Main {
             r_string = ostatok;
             
         }
-        else if  ( (r_int>=10) && (r_int<20) ) {
+        else if  ( (r_int>10) && (r_int<20) ) {
             r_string = "X"+ostatok;
             
         }
